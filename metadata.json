@@ -1,0 +1,5 @@
+{
+  "name": "SonicFlow",
+  "description": "A cyberpunk-themed audio extraction and editing tool allowing users to upload, trim, and export audio from video or audio files directly in the browser.",
+  "requestFramePermissions": []
+}
